@@ -84,9 +84,9 @@ This project demonstrates the effective use of Power BI KPIs and dashboards to a
 ## 11. Project Structure
 Analysis-of-Data-Job-Market/
 
-├── Dataset 
+├── Power BI
 
-├── PowerBI
+├── Dataset
 
 └── README.md
 ## 12. Skills Demonstrated
